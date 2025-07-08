@@ -1,8 +1,8 @@
 # 概要
 
-このリポジトリでは[GoogleAnalytics4のMeasurement Protocol](https://developers.google.com/analytics/devguides/collection/protocol/ga4)を利用するUnrealEngine用のGoogleMeasurementProtocolプラグインとそのサンプルプロジェクトを管理します。
+このリポジトリでは[GoogleAnalytics4のMeasurement Protocol](https://developers.google.com/analytics/devguides/collection/protocol/ga4)を利用するUnrealEngine用のGMeasurementProtocolプラグインとそのサンプルプロジェクトを管理します。
 
-# GoogleMeasurementProtocolAnalyticsプラグインについて
+# GMeasurementProtocolAnalyticsプラグインについて
 
 UnrealEngineのAnalyticsのRecordEventでMeasurement Protocolを使ってイベントを登録します。
 UnrealEngine5.3向けにしていますが、特殊な処理はしていないためUnrealEngine5系なら問題なく動作するかと思います。
